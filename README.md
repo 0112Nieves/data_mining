@@ -6,4 +6,5 @@
   - 使用Transformer (BERT) 進行文字解析
   - 使用SVM進行分類
   - 使用F1-score評估結果
-  - 成果達到全組最優![image](https://github.com/user-attachments/assets/392844f6-b7ab-40df-9ae3-3cb35ef8f54a)
+  - 成果達到全組最優
+    - ![image](https://github.com/user-attachments/assets/392844f6-b7ab-40df-9ae3-3cb35ef8f54a)
